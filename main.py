@@ -1,3 +1,11 @@
+#  -----------------------------------------------------------
+# Tic Tac Toe
+#
+# Author:   Valerii Tsekhmaistruk
+# GitHub: https://github.com/ValeriiTsekhmaistruk/TicTacToe
+# Email: valeriitseh1305@gmail.com
+# -----------------------------------------------------------
+
 from kivy.app import App
 from kivy.config import Config
 Config.set('graphics', 'resizable', 0)
